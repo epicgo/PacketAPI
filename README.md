@@ -21,7 +21,7 @@
 
 ### Usage:
 ```java
-package io.github.jamestamer.packet;
+package io.github.epicgo.packet;
 
 public static class PacketExampleListener implements PacketEventListener {
     
